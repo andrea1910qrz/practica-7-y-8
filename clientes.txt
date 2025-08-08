@@ -1,0 +1,2 @@
+Id_Cliente: 1| Nombre: Luz | Numero: Maria | Correo: luz@gmail.com 
+Id_Cliente: 2| Nombre: Angel | Numero: 81782 | Correo: angel@gmail.com 

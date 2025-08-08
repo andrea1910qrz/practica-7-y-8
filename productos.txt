@@ -1,0 +1,5 @@
+1 Llanta1 michellin 2345.00 33
+23 llanta23 michellin 450.00 32 
+4 llanta4 michellin 3400.00 23 
+12 llanta12 Michellin 2300.00 3 
+

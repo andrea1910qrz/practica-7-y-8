@@ -1,0 +1,2 @@
+Id_Venta: 12| Cantidad: 3 | Total: 7006.00 
+Id_Venta: 123| Cantidad: 1 | Total: 60.00 
